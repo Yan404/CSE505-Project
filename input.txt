@@ -1,0 +1,6 @@
+[every,dog,is,happy,.].
+[no,cat,is,sad,.].
+[every,bird,can,fly,.].
+[every,pigeon,is,bird,.].
+[no,penguin,can,fly,.].
+[max,is,dog,.].

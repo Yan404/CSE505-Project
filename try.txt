@@ -1,0 +1,9 @@
+[every,bird,can,fly,.].
+[penguins,are,birds,.].
+[tweety,is,a,penguin,.].
+[can,tweety,fly,?].
+[max,is,a,dog,.].
+[dogs,are,not,birds,.].
+[max,can,not,fly,.].
+[a,pigeon,is,not,a,penguin,.].
+[pigeons,can,fly,.].
